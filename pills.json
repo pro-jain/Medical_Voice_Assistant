@@ -1,0 +1,117 @@
+[
+  {
+    "instruction": "Can I take ibuprofen with food?",
+    "input": "",
+    "output": "Yes, it is generally safe to take ibuprofen with food to avoid stomach irritation. However, always follow the dosage instructions and consult your doctor if you have any concerns."
+  },
+  {
+    "instruction": "What should I do if I have a headache?",
+    "input": "",
+    "output": "For mild headaches, over-the-counter pain relievers like paracetamol or ibuprofen may help. Drink plenty of water, rest, and avoid stress. If headaches persist or worsen, see a doctor."
+  },
+  {
+    "instruction": "Can I take aspirin if I have high blood pressure?",
+    "input": "",
+    "output": "Aspirin can be safe for some people with high blood pressure, but it may interact with certain blood pressure medications. Always consult your doctor before taking aspirin if you have hypertension."
+  },
+  {
+    "instruction": "How do I take vitamin D supplements?",
+    "input": "",
+    "output": "Vitamin D supplements are usually taken orally, with or without food. It's best to follow the dosage instructions on the label or as recommended by your doctor."
+  },
+  {
+    "instruction": "What can I take for an upset stomach?",
+    "input": "",
+    "output": "For an upset stomach, antacids like Tums or Pepto-Bismol can help. Ginger tea or a bland diet may also soothe discomfort. If symptoms persist, consult your healthcare provider."
+  },
+  {
+    "instruction": "Is it safe to take sleeping pills every night?",
+    "input": "",
+    "output": "While sleeping pills can be effective for short-term use, they are not recommended for long-term use without a doctor's guidance. Prolonged use may lead to dependence or side effects."
+  },
+  {
+    "instruction": "Can I drink alcohol while taking painkillers?",
+    "input": "",
+    "output": "Drinking alcohol while taking painkillers, especially opioids or medications like acetaminophen, can increase the risk of liver damage and drowsiness. Always avoid alcohol while on pain medications unless cleared by your doctor."
+  },
+  {
+    "instruction": "Should I take antibiotics after a meal?",
+    "input": "",
+    "output": "Some antibiotics should be taken with food to avoid stomach upset, while others may be more effective when taken on an empty stomach. Always follow your doctor's instructions regarding the timing of antibiotics."
+  },
+  {
+    "instruction": "What should I do if I experience side effects from my medication?",
+    "input": "",
+    "output": "If you experience side effects, contact your doctor immediately. They may adjust your dosage, suggest alternatives, or recommend ways to manage the side effects."
+  },
+  {
+    "instruction": "Can I take allergy medicine with other medications?",
+    "input": "",
+    "output": "Some allergy medications can interact with other drugs. Always consult your doctor or pharmacist before combining allergy medications with other treatments."
+  },
+  {
+    "instruction": "Can I take antibiotics with milk?",
+    "input": "",
+    "output": "It is generally not recommended to take antibiotics like tetracycline with milk, as dairy can interfere with absorption. However, not all antibiotics are affected. Always consult your doctor or pharmacist."
+  },
+  {
+    "instruction": "What medicine should I take for a cold?",
+    "input": "",
+    "output": "For a common cold, over-the-counter medications like paracetamol (for fever), antihistamines (for runny nose), and cough suppressants can help. Drink plenty of fluids and rest. See a doctor if symptoms persist."
+  },
+  {
+    "instruction": "I missed my dose. What should I do?",
+    "input": "",
+    "output": "If you missed a dose, take it as soon as you remember. If it’s almost time for your next dose, skip the missed one. Don’t take two doses together unless advised by your doctor."
+  },
+  {
+    "instruction": "What should I avoid while taking antibiotics?",
+    "input": "",
+    "output": "Avoid alcohol, dairy (for some antibiotics), and skipping doses. Also, avoid stopping early — finish the full course as prescribed."
+  },
+  {
+    "instruction": "Can I take paracetamol if I have a fever?",
+    "input": "",
+    "output": "Yes, paracetamol (acetaminophen) can help reduce fever and relieve pain. Always follow the dosage instructions and do not exceed the recommended amount."
+  },
+  {
+    "instruction": "What should I do if my wound is not healing?",
+    "input": "",
+    "output": "If your wound is not healing, keep it clean, and apply antiseptic. Consult a doctor if there are signs of infection or if it does not heal within a reasonable time frame."
+  },
+  {
+    "instruction": "Can I take multiple medications for my symptoms?",
+    "input": "",
+    "output": "It’s important to consult your doctor or pharmacist before combining medications, as some drugs may interact with each other and cause side effects."
+  },
+  {
+    "instruction": "How long should I take antibiotics for?",
+    "input": "",
+    "output": "You should take antibiotics for the full prescribed duration, even if you feel better. Stopping early can lead to the infection returning and resistance to the antibiotic."
+  },
+  {
+    "instruction": "What is the best treatment for seasonal allergies?",
+    "input": "",
+    "output": "Over-the-counter antihistamines, nasal sprays, and decongestants can help alleviate seasonal allergy symptoms. In some cases, your doctor may recommend allergy shots or other treatments."
+  },
+  {
+    "instruction": "Can I take painkillers on an empty stomach?",
+    "input": "",
+    "output": "Some painkillers can irritate the stomach lining if taken on an empty stomach. It's best to take them with food or as advised by your doctor."
+  },
+  {
+    "instruction": "How do I take a calcium supplement?",
+    "input": "",
+    "output": "Calcium supplements are best taken with food to improve absorption. Follow the dosage instructions on the label or as directed by your doctor."
+  },
+  {
+    "instruction": "Can I take cold medicine if I’m pregnant?",
+    "input": "",
+    "output": "It’s important to consult your doctor before taking any medication during pregnancy, including cold medicine. Some medications may not be safe for pregnant women."
+  },
+  {
+    "instruction": "What should I do if I accidentally overdose on medication?",
+    "input": "",
+    "output": "If you suspect an overdose, seek emergency medical attention immediately. Do not wait for symptoms to appear."
+  }
+]

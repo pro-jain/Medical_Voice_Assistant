@@ -1,0 +1,86 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What medicine should my friend take for sore throat?"
+      },
+      {
+        "role": "assistant",
+        "content": "For sore throat, your friend can try lozenges or mild pain relievers. \u26a0 This is not medical advice. Please consult a doctor."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I have nausea"
+      },
+      {
+        "role": "assistant",
+        "content": "You missed 2 doses of Paracetamol."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can I drink milk with antibiotics?"
+      },
+      {
+        "role": "assistant",
+        "content": "Avoid milk with antibiotics like tetracycline as it may reduce absorption. Always consult your doctor."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can I take painkillers on an empty stomach?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some painkillers can irritate your stomach. It's best to take them with food unless advised otherwise by your doctor."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is it ok to exercise while on medication?"
+      },
+      {
+        "role": "assistant",
+        "content": "It depends on the medication. Some may cause dizziness or fatigue. Always check with your doctor before exercising."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I have a cold, what medicine should I take?"
+      },
+      {
+        "role": "assistant",
+        "content": "For a common cold, over-the-counter medications like paracetamol or antihistamines can help. \u26a0 This is not medical advice. Please consult a doctor."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if I miss a dose?"
+      },
+      {
+        "role": "assistant",
+        "content": "If you miss a dose, take it as soon as you remember. If it's almost time for the next dose, skip the missed one. Do not double dose."
+      }
+    ]
+  }
+]
